@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zBU9iQhThmo=",
+  "dgSpecHash": "noudEvOpnmE=",
   "success": true,
-  "projectFilePath": "C:\\Users\\GiovannaLopesSantana\\Downloads\\Primeiro_app-main\\Primeiro_app\\Primeiro_app.csproj",
+  "projectFilePath": "C:\\Users\\GiovannaLopesSantana\\Desktop\\primeiro_app-clone-\\Primeiro_app\\Primeiro_app.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\GiovannaLopesSantana\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\GiovannaLopesSantana\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
